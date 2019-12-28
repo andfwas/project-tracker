@@ -1,20 +1,7 @@
-# Project Ideas Readme Template
-## Keep Track Yo Self
+# Project Idea Title
+## Project Idea Tag Line
 
-HTML for markdown:
-```html
-<link href="https://google.com">
-```
-
-CSS for markdown:
-```css
-body {
-  width: 80%;
-  margin: 2em auto 0 auto;
-}
-```
-
-## This app demonstrates:
+### This app demonstrates:
 ---
 * [ ] Front End Frameworks
   * [ ] Vue
@@ -26,20 +13,5 @@ body {
 * [ ] Node
 * [ ] Proxy Server (hidden environment variables)
 * [ ] Database (persistent data)
-* [ ] 
 
-## Technologies
----
-* [ ]
-* [ ]
-* [ ]
-* [ ]
-* [ ]
-* [ ]
-
-## STRETCH
----
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
+#### More goes here:

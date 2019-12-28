@@ -17,7 +17,6 @@ body {
 #### This app demonstrates:
 ---
 
-
 * [x] 
 * [ ] 
 * [ ] 
@@ -36,7 +35,6 @@ body {
 
 ## Technologies
 ---
-
 * [ ]
 * [ ]
 * [ ]
@@ -45,7 +43,7 @@ body {
 * [ ]
 
 ## STRETCH
-
+---
 * [ ] 
 * [ ] 
 * [ ] 

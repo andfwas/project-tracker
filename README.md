@@ -25,7 +25,7 @@ body {
 * [ ] Auth & Auth
 * [ ] Node
 * [ ] Proxy Server (hidden environment variables)
-* [ ] 
+* [ ] Database (persistent data)
 * [ ] 
 
 ## Technologies

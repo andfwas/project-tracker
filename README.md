@@ -1,4 +1,4 @@
-# Project Ideas
+# Project Ideas Readme Template
 ## Keep Track Yo Self
 
 HTML for markdown:
@@ -14,22 +14,12 @@ body {
 }
 ```
 
-#### This app demonstrates:
+## This app demonstrates:
 ---
-
-* [x] 
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
-
-## Requirements
----
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
+* [ ] Front End Frameworks
+* [ ] API consumption
+* [ ] API creation (REST)
+* [ ] Auth & Auth
 * [ ] 
 * [ ] 
 
